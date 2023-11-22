@@ -10,4 +10,4 @@
 
 Мои соцсети для связи:
 
-[![tg](https://github.com/fromufawithlove/fromufawithlove/blob/main/tg2.png)](https://t.me/orangelu)
+[![tg](https://github.com/fromufawithlove/fromufawithlove/blob/main/tg3.png)](https://t.me/orangelu)
