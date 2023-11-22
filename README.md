@@ -28,7 +28,7 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=opa-oz&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fromufawithlove&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake,python)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fromufawithlove)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [tg]: https://t.me/orangelu
