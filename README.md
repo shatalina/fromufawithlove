@@ -13,7 +13,7 @@
 [![tg](https://github.com/fromufawithlove/fromufawithlove/blob/main/tg3.png)](https://t.me/orangelu)
 
 [<img align="left" alt="opa_oz | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][tg]
-[<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][in]
 
 
 **Ключевые навыки и инструменты:**
@@ -42,4 +42,4 @@
 
 
 [tg]: https://t.me/orangelu
-[linkedin]: https://www.linkedin.com/in/%D1%88%D0%B0%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%D0%B0-%D1%8E%D0%BB%D0%B8%D1%8F-55934478
+[in]: https://www.linkedin.com/in/%D1%88%D0%B0%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%D0%B0-%D1%8E%D0%BB%D0%B8%D1%8F-55934478
